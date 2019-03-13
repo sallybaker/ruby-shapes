@@ -1,2 +1,3 @@
 # ruby-shapes
-Drawing shapes in ruby
+
+This repo has been created for educational purposes only. 
