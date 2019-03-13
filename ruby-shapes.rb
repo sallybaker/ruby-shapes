@@ -1,4 +1,4 @@
-## This project is inspired on the exercises outlined in Project 4 "Ruby for Kids" by Chris Haupt
+## This project is inspired by the exercises outlined in Project 4 "Ruby for Kids" by Chris Haupt
 ## Adapted by Sally Baker 
 ## ==================================================================================
 ## Draw a triangle
